@@ -1,0 +1,25 @@
+{
+  "session_summary": {
+    "session_duration_sec": 2.31,
+    "total_frames": 275,
+    "valid_frames": 70,
+    "valid_frames_pct": 25.5,
+    "mean_ear": 0.4427,
+    "ear_variance": 0.018143,
+    "blink_count": 0,
+    "blink_rate_per_min": 0.0,
+    "mean_blink_duration_ms": 0.0,
+    "eye_movement_horizontal_distribution_pct": {
+      "outward": 37.1,
+      "inward": 0.0,
+      "center": 62.9
+    },
+    "eye_movement_vertical_distribution_pct": {
+      "up": 11.4,
+      "down": 1.4,
+      "center": 87.1
+    },
+    "eye_movement_vertical_confidence": "low"
+  },
+  "frame_count_exported": 275
+}
